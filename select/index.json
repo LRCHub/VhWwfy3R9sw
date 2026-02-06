@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "スターランド",
+  "base_artist": "Miyakawakun",
+  "createdAt": "2026-02-06T15:20:08.535844Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スターランド - Star Land",
+      "artist": "Taisei Miyakawa",
+      "has_synced": true,
+      "path": "select/01_スターランド_-_Star_Land_Taisei_Miyakawa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スターランド",
+      "artist": "みやかわくん",
+      "has_synced": false,
+      "path": "select/pl_01_スターランド_みやかわくん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "スターランド",
+      "artist": "みやかわくん",
+      "has_synced": false,
+      "path": "select/pl_02_スターランド_みやかわくん.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "スターランド",
+      "artist": "みやかわくん",
+      "has_synced": false,
+      "path": "select/pl_03_スターランド_みやかわくん.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "スターランド",
+      "artist": "みやかわくん",
+      "has_synced": false,
+      "path": "select/pl_04_スターランド_みやかわくん.txt"
+    }
+  ]
+}
